@@ -14,4 +14,4 @@ Ben Mustafa Akdeniz.
 * Futbol oynamak ve izlemek
 * Bilişim ile ilgili videolar izlemek
 * Yazılım öğrenmek
-<img src="download - Kopya.png"  width="200"/>
+<img src="download - Kopya.png"  height="10" width="10"/>
