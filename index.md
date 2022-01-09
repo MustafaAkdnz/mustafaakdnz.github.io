@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Özgeçmiş
 
 Ben Mustafa Akdeniz.
