@@ -2,114 +2,15 @@
 
 Ben Mustafa Akdeniz.
 
-19 yaşındayım. Adanalıyım. İlkokulu ve Ortaokulu Mithatpaşa okulunda okudum. Liseyi Kurttepe Şehit Ali Öztaş Mesleki ve Tekniki Anadolu Lisesinde okudum. Şu an Osmaniye Korkut Ata Üniversitesinde Yönetim Bilişim Sistemleri bölümünde okuyorum. 
+19 yaşındayım. Adanalıyım. İlkokulu ve Ortaokulu Mithatpaşa okulu'nda okudum. Liseyi Kurttepe Şehit Ali Öztaş Mesleki ve Tekniki Anadolu Lisesi'nde okudum. Şu an Osmaniye Korkut Ata Üniversitesi'nde Yönetim Bilişim Sistemleri bölümünde okuyorum. 
 
-|[İnstagram](https://www.instagram.com/mustafaakdeniz01/)
-|[LinkedIn](https://www.linkedin.com/in/mustafa-akdeniz-7a318a224)|
-## Header 2
+## Hedeflerim
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+İyi bir yazılımcı olup iyi bir ekipte ya da şirkette yer alabilmek. 
 
-### Header 3
+### Hobilerim
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+* Şarkı Dinlemek
+* Futbol oynamak ve izlemek
+* Bilişim ile ilgili videolar izlemek
+* Yazılım öğrenmek
