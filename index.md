@@ -14,4 +14,6 @@ Ben Mustafa Akdeniz.
 * Futbol oynamak ve izlemek
 * Bilişim ile ilgili videolar izlemek
 * Yazılım öğrenmek
-<img src="download - Kopya.png"  height="20" width="20"/>
+<a href="https://www.instagram.com/mustafaakdeniz01/ " target="_blank" > <img src="download - Kopya.png"  height="20" width="20"/>İnstagram</a>
+<a href="https://www.linkedin.com/in/mustafa-akdeniz/7a318a224" target="_blank" ><img src="images - Kopya"  height="20" width="20"/>LinkedIn</a>
+<a href="https://github.com/MustafaAkdnz" target="_blank" >Github</a>
