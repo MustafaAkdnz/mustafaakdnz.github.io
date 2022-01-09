@@ -4,6 +4,8 @@ Ben Mustafa Akdeniz.
 
 19 yaşındayım. Adanalıyım. İlkokulu ve Ortaokulu Mithatpaşa okulunda okudum. Liseyi Kurttepe Şehit Ali Öztaş Mesleki ve Tekniki Anadolu Lisesinde okudum. Şu an Osmaniye Korkut Ata Üniversitesinde Yönetim Bilişim Sistemleri bölümünde okuyorum. 
 
+|[İnstagram](https://www.instagram.com/mustafaakdeniz01/)
+|[LinkedIn](https://www.linkedin.com/in/mustafa-akdeniz-7a318a224)
 ## Header 2
 
 > This is a blockquote following a header.
