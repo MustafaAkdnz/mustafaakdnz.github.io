@@ -16,7 +16,7 @@ Ben Mustafa Akdeniz.
 * Yazılım öğrenmek
 <br>
 
-Hesaplarım:<br>
+## Hesaplarım:<br>
 <a href="https://tr.linkedin.com/in/mustafa-akdeniz-7a318a224" target="_blank" ><img src="download - Kopya.png"  height="17" width="17"/> LinkedIn</a><br>
 <a href="https://github.com/MustafaAkdnz/ " target="_blank" > <img src="github.jpg"  height="20" width="20"/> Github</a><br>
 
